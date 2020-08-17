@@ -3,6 +3,10 @@
 
 [Dados históricos do INMET](https://portal.inmet.gov.br/dadoshistoricos)
 
+ambiente do conda
+
+
+
 # Conteúdo
 
 
@@ -17,5 +21,4 @@ Change the above scatter-plus-histogram example we did above so that you can pan
 
 notebook 07
 
-	
 notebook 08
