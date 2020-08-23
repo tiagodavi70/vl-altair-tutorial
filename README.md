@@ -12,24 +12,24 @@ Nós preparamos dois conjuntos desses dados históricos, do ano de 2019, o `comp
 
 1. Introdução, tipos de dados e Variáveis Visuais <br/>
    <small>
-     [Jupyter Notebook]() |
-     [Open in Colab]()
+     [Pré Visualização - Jupyter Notebook](https://nbviewer.jupyter.org/github/tiagodavi70/vl-altair-tutorial/blob/fe19f55f0d595e07fe722822a1c4da515f46cc17/1_Introducao.ipynb) |
+     [Abrir no Colab](https://colab.research.google.com/github/tiagodavi70/vl-altair-tutorial/blob/master/1_Introducao.ipynb)
    </small>
 
 2. Transformações e Personalização <br/>
    <small>
-     [Jupyter Notebook]() |
-     [Open in Colab]()
+     [Pré Visualização - Jupyter Notebook](https://nbviewer.jupyter.org/github/tiagodavi70/vl-altair-tutorial/blob/fe19f55f0d595e07fe722822a1c4da515f46cc17/2_Dados.ipynb) |
+     [Abrir no Colab](https://colab.research.google.com/github/tiagodavi70/vl-altair-tutorial/blob/master/2_Dados.ipynb)
    </small>
 
 3. Múltiplas Visões<br/>
    <small>
-     [Jupyter Notebook]() |
-     [Open in Colab]()
+     [Pré Visualização - Jupyter Notebook](https://nbviewer.jupyter.org/github/tiagodavi70/vl-altair-tutorial/blob/fe19f55f0d595e07fe722822a1c4da515f46cc17/3_Visoes.ipynb) |
+     [Abrir no Colab](https://colab.research.google.com/github/tiagodavi70/vl-altair-tutorial/blob/master/3_Visoes.ipynb)
    </small>
 
 4. Interação<br/>
    <small>
-     [Jupyter Notebook]() |
-     [Open in Colab]()
+     [Pré Visualização - Jupyter Notebook](https://nbviewer.jupyter.org/github/tiagodavi70/vl-altair-tutorial/blob/fe19f55f0d595e07fe722822a1c4da515f46cc17/4_Interacao.ipynb) |
+     [Abrir no Colab](https://colab.research.google.com/github/tiagodavi70/vl-altair-tutorial/blob/master/4_Interacao.ipynb)
    </small>
