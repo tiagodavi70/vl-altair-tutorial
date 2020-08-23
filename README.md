@@ -1,24 +1,35 @@
 # Tutorial Vega Lite API & Altair
 
 
-[Dados históricos do INMET](https://portal.inmet.gov.br/dadoshistoricos)
+## Dados
 
-ambiente do conda
+O Sistema de Coleta e Distribuição de Dados Meteorológicos do INMET (temperatura, umidade relativa do ar, direção e velocidade do vento, pressão atmosférica, precipitação, entre outras variáveis) é dotado de estações de sondagem de ar superior (radiossonda); estações meteorológicas de superfície, operadas manualmente; e a maior rede de estações automáticas da América do Sul. Tudo que é recuperado de sensores automáticos pode ser visto no conjunto de [dados históricos do INMET](https://portal.inmet.gov.br/dadoshistoricos).
 
-
-
-# Conteúdo
+Nós preparamos dois conjuntos desses dados históricos, do ano de 2019, o `completo.csv` tem os dados do estado do Pará, e o `dados.csv` que tem os mesmos dados agrupados por média da semana de 10 cidades das 31. O arquivo `metadados.csv` tem informações sobre as cidades. Os métodos de agrupamento estão no notebook de [Limpar Dados](), que é opcional e só mostra processamento de arquivos.
 
 
-# Exercícios
+## Conteúdo
 
-notebook 06 - selections
-Using the cars data, create a scatter-plot where the size of the points becomes larger as you hover over them.
+1. Introdução, tipos de dados e Variáveis Visuais <br/>
+   <small>
+     [Jupyter Notebook]() |
+     [Open in Colab]()
+   </small>
 
-Using the cars data, create a two-panel histogram (say, miles per gallon counts in one panel, horsepower counts in the other) where you can drag your mouse to select data in the left panel to filter the data in the second panel.
+2. Transformações e Personalização <br/>
+   <small>
+     [Jupyter Notebook]() |
+     [Open in Colab]()
+   </small>
 
-Change the above scatter-plus-histogram example we did above so that you can pan and zoom on the scatterplot the histogram only reflects points that are visible at the given moment
+3. Múltiplas Visões<br/>
+   <small>
+     [Jupyter Notebook]() |
+     [Open in Colab]()
+   </small>
 
-notebook 07
-
-notebook 08
+4. Interação<br/>
+   <small>
+     [Jupyter Notebook]() |
+     [Open in Colab]()
+   </small>
