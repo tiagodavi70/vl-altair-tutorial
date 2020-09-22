@@ -91,6 +91,8 @@ Os notebooks podem ser usados online ou localmente.
 
 [Apresentação do Vega-Lite na OpenVisConf 2017](https://www.youtube.com/watch?v=9uaHRWj04D4)
 
+[Tutorial InfoVis - FH Potsdam](https://infovis.fh-potsdam.de/tutorials/)
+
 ## Crédito
 
 MSc. Tiago Araújo e Prof. Dr. Bianchi Serique Meiguins são responsáveis pela tradução, revisão e novo conteúdo nos notebooks.
