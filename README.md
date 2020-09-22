@@ -1,4 +1,6 @@
-# Tutorial - Vega Lite API & Altair
+# Tutorial - Vega Lite API & Altair <a href="https://altair-viz.github.io/"><img align="right" src="https://altair-viz.github.io/_static/altair-logo-light.png" height="50"></img></a> <a href="https://vega.github.io/vega-lite/"><img align="right" src="https://github.com/vega/logos/blob/master/assets/VL_Color@64.png?raw=true" height="38"></img></a> 
+
+
 
 ![banner](./banner.png)
 
