@@ -1,4 +1,6 @@
-# Tutorial - Vega Lite API & Altair
+# Tutorial - Vega Lite API & Altair <a href="https://altair-viz.github.io/"><img align="right" src="https://altair-viz.github.io/_static/altair-logo-light.png" height="50"></img></a> <a href="https://vega.github.io/vega-lite/"><img align="right" src="https://github.com/vega/logos/blob/master/assets/VL_Color@64.png?raw=true" height="38"></img></a> 
+
+
 
 ![banner](./banner.png)
 
@@ -90,6 +92,8 @@ Os notebooks podem ser usados online ou localmente.
 <a href="https://observablehq.com/collection/@observablehq/observable-for-vega-lite"> Observable for Vega-Lite </a>
 
 [Apresentação do Vega-Lite na OpenVisConf 2017](https://www.youtube.com/watch?v=9uaHRWj04D4)
+
+[Tutorial InfoVis - FH Potsdam](https://infovis.fh-potsdam.de/tutorials/)
 
 ## Crédito
 
