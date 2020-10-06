@@ -65,6 +65,8 @@ Os notebooks podem ser usados online ou localmente.
 
 [O que é o Colaboratory?](https://colab.research.google.com/notebooks/intro.ipynb)
 
+[Introdução à linguagem Python](https://github.com/tiagodavi70/python-intro)
+
 [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)
 
 [Galeria](https://altair-viz.github.io/gallery/index.html)
