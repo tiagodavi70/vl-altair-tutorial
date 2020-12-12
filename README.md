@@ -1,11 +1,8 @@
 # Tutorial - Vega Lite API & Altair <a href="https://altair-viz.github.io/"><img align="right" src="https://altair-viz.github.io/_static/altair-logo-light.png" height="50"></img></a> <a href="https://vega.github.io/vega-lite/"><img align="right" src="https://github.com/vega/logos/blob/master/assets/VL_Color@64.png?raw=true" height="38"></img></a> 
 
-
-
 ![banner](./banner.png)
 
-Material para as classes práticas de Visualização da Informação da UFPA.
-
+Conjunto de notebooks interativos para ensino de Visualização da Informação. Usado também nas classes práticas de Visualização da Informação da UFPA. Repositório com as bases e ipython notebooks no [vl-altair-tutorial](https://github.com/tiagodavi70/vl-altair-tutorial).
 ## Conteúdo
 
 * [Índice dos notebooks no Observable](https://observablehq.com/@tiagodavi70/indice-vl-altair-tutorial)
